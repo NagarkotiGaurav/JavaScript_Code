@@ -1,1 +1,2 @@
-console.log("Hello");
+var today= new Date();
+console.log( today);
